@@ -1,4 +1,4 @@
-#TERMS OF SERVICE
+# TERMS OF SERVICE
 
 Last Updated: November 15, 2021 
 
@@ -36,7 +36,7 @@ and including any documentation, blog posts, audit reports, forums, features, to
 
 As used herein, "OpenZeppelin", "we", "our" or "us" means zOS Global Limited and/or its affiliates to the extent involved in providing the Services. Zeppelin Audits Ltd. is the affiliate responsible for Services related to security services and research. 
 
-## 1\. Types of Users
+### 1\. Types of Users
 
 1.1 OpenZeppelin has two different types of end users:
 
